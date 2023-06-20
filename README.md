@@ -1,4 +1,4 @@
-![logo](cognitiveclass-logo.png)
+![logo](/logo/cognitiveclass-logo.png)
 
 This repository were developed during the Cognitive Class Course offered by IBM Technology corporation
 
